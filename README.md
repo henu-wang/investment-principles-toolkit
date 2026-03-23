@@ -8,13 +8,30 @@ Built and maintained by [William Wang](https://keeprule.com), founder of **[Keep
 
 ## Table of Contents
 
+- [Free Interactive Tools](#free-interactive-tools)
 - [Investment Principles by Master Investor](#investment-principles-by-master-investor)
 - [Decision Frameworks & Checklists](#decision-frameworks--checklists)
 - [Python Tools & Scripts](#python-tools--scripts)
 - [Market Psychology & Behavioral Finance](#market-psychology--behavioral-finance)
 - [Portfolio Management](#portfolio-management)
+- [Developer Resources](#developer-resources)
+- [Educational Content](#educational-content)
 - [Recommended Reading](#recommended-reading)
 - [About KeepRule](#about-keeprule)
+
+---
+
+## Free Interactive Tools
+
+Interactive web tools for investment analysis and education — no signup required.
+
+| Tool | Description | Link |
+|------|-------------|------|
+| [Investor Personality Quiz](https://gist.github.com/henu-wang/eecdc1dd2c7b866fcdfcb19de6dfe105) | Discover which legendary investor you are — 6 archetypes, 2-minute quiz | [Try it](https://henu-wang.github.io/investor-personality-quiz/) |
+| [Investment Scorecard](https://gist.github.com/henu-wang/6847cc93fc869539f62971b130e27a49) | Rate any stock like Buffett across 7 dimensions | [Try it](https://henu-wang.github.io/keeprule-investment-scorecard/) |
+| [Portfolio Health Check](https://gist.github.com/henu-wang/d8521e36cb399b79b71c3e49bbc7368b) | Check diversification across sectors, asset classes, geography & correlation | [Try it](https://henu-wang.github.io/keeprule-tools/) |
+| [Fear & Greed Calculator](https://gist.github.com/henu-wang/33f575d4fc5d0408c4b13a5206515be0) | Multi-factor market sentiment scoring — should you be greedy or fearful? | [Try it](https://henu-wang.github.io/keeprule-tools/) |
+| [Investment Decision Tree](https://gist.github.com/henu-wang/cfc7d1b6ac6b52e76b447cec74eb602d) | Systematic Buy/Hold/Sell flowchart for every trade | [Try it](https://henu-wang.github.io/keeprule-tools/) |
 
 ---
 
@@ -145,6 +162,33 @@ Built and maintained by [William Wang](https://keeprule.com), founder of **[Keep
 | [Sector Rotation Strategy Guide](https://gist.github.com/henu-wang/d7b4618be46321b69e06388e239e984e) | Gist | Economic cycle phases, sector ETFs, leading indicators |
 | [Sector Rotation Cheat Sheet](https://gist.github.com/henu-wang/b07b234ed359a26ffce779f089e8915a) | Gist | Quick reference — which sectors perform in each cycle phase |
 | [Investing for Beginners 2026 Roadmap](https://gist.github.com/henu-wang/afe774f87383c4be64d707bcbc1ca62a) | Gist | Step-by-step guide from emergency fund to portfolio building |
+
+---
+
+## Developer Resources
+
+Tools and APIs for developers building investment applications.
+
+| Resource | Type | Description |
+|----------|------|-------------|
+| [Free Investment Principles API](https://gist.github.com/henu-wang/205d756898fd71a5504b3b0d45845c36) | API | 100+ principles, 20+ authors, no auth required — JS & Python examples |
+| [KeepRule NPM Package](https://github.com/henu-wang/keeprule-npm) | NPM | `npm install keeprule` — Investment principles for Node.js apps |
+| [KeepRule PyPI Package](https://github.com/henu-wang/keeprule-pypi) | PyPI | `pip install keeprule` — Investment principles for Python apps |
+| [KeepRule Chrome Extension](https://gist.github.com/henu-wang/55baed991cdde7da4ba058b145a1fdac) | Extension | Daily investment wisdom on any stock page |
+| [Embeddable Widget](https://github.com/henu-wang/keeprule-widget) | Widget | Add investment principles to any website with one line of code |
+
+---
+
+## Educational Content
+
+Courses, ebooks, and visual guides for investment education.
+
+| Resource | Type | Description |
+|----------|------|-------------|
+| [7-Day Email Course: Master Buffett's Principles](https://gist.github.com/henu-wang/5e2997180786a84d7405c3f9e5b0cb1f) | Course | One lesson per day with exercises — free enrollment |
+| [The Investor's Playbook (100+ Principles Ebook)](https://gist.github.com/henu-wang/bf430b5c3d812d9748f2959c9eb7a2a4) | Ebook | Complete principles collection organized by topic |
+| [Buffett's 10 Golden Rules Infographic](https://gist.github.com/henu-wang/d1378e6c6a900d07839a86c0a8f443d8) | Infographic | Visual guide to Buffett's most important principles |
+| [Investment Masters Deep Dives](https://github.com/henu-wang/keeprule-masters) | Guide | Detailed profiles of Buffett, Munger, Graham, Lynch, Dalio & Marks |
 
 ---
 
